@@ -39,7 +39,7 @@ import javax.validation.Valid;
  * Created by brian on 16/8/22.
  */
 @Controller
-@RequestMapping("/user")
+@RequestMapping("/user1")
 @SessionAttributes("userSession")
 public class UserController {
 
